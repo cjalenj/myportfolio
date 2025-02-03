@@ -2,7 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cjalenj.github.io/portfolio",
+  "homepage": "http://cjalenj.github.io/myportfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -41,11 +41,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+	"predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-	"predeploy": "npm run build",
-	"deploy": "gh-pages -d dist"
+    "eject": "react-scripts eject"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^18.2.1",
