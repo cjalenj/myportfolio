@@ -1,0 +1,171 @@
+{
+    "intro": "Some of my various skills and knowledge.",
+    "skills": [{
+     
+            "title": "Programming Languages",
+            "items" : [
+			
+				{
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/C.png",
+                    "title": "C"
+                },
+				{
+                    "icon": "images/skills/C++.png",
+                    "title": "C++"
+                },
+				{
+                    "icon": "images/skills/powershell.png",
+                    "title": "PowerShell"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/csharp.png",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/pine_script.png",
+                    "title": "Pine Script"
+                }
+        ]},
+		{
+            "title": "Markup & Scripting Languages",
+            "items" : [
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+				{
+                    "icon": "images/skills/xaml.png",
+                    "title": "XAML"
+                },
+				{
+                    "icon": "images/skills/xml.png",
+                    "title": "XML"
+                },
+                {
+                    "icon": "images/skills/latex.png",
+                    "title": "LaTeX"
+                }
+            ]
+        },
+        {
+            "title": "Frameworks & Libraries",
+            "items" : [
+                {
+                    "icon": "images/skills/javafx.png",
+                    "title": "JavaFX"
+                },
+				{
+                    "icon": "images/skills/junit.png",
+                    "title": "JUnit"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+				{
+                    "icon": "images/skills/pandas.png",
+                    "title": "Pandas"
+                },
+				{
+                    "icon": "images/skills/numpy.png",
+                    "title": "NumPy"
+                },
+				{
+                    "icon": "images/skills/scikit-learn.png",
+                    "title": "scikit-learn"
+                },
+				{
+                    "icon": "images/skills/pytorch.png",
+                    "title": "PyTorch"
+                },
+                {
+                    "icon": "images/skills/wpf.png",
+                    "title": "WPF"
+                }
+            ]
+        },
+        {
+            "title" : "Developer Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+				{
+                    "icon": "images/skills/jupyter.png",
+                    "title": "Jupyter"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+		},
+		{
+            "title": "Other Software",
+            "items" : [
+                {
+                    "icon": "images/skills/microsoft.png",
+                    "title": "Microsoft Office"
+                },
+				{
+                    "icon": "images/skills/autocad.png",
+                    "title": "AutoCAD"
+                },
+				{
+                    "icon": "images/skills/google.png",
+                    "title": "Google Workspace"
+                }
+            ]
+		},
+		{
+            "title": "Mathematics",
+            "items" : [
+                "Differential Calculus",
+                "Integral Calculus",
+				"Multivariable Calculus",
+				"User Interface Design",
+				"Linear Algebra",
+				"Probability & Statistics",
+				"Discrete Math",
+				"Combinatorics"
+            ]
+        },
+		{
+            "title": "Technical Skills",
+            "items" : [
+                "Data Structures",
+                "Machine Learning",
+				"Computer Vision",
+				"User Interface Design",
+				"Algorithm Design & Analysis",
+				"Knowledge-Based Systems",
+				"Object-Oriented Programming",
+				"Prototpying",
+				"User-Centered Design",
+				"User Interviews",
+				"Market Research",
+                "Data Analysis"
+            ]
+        }
+]}

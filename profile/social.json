@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/chris-jalen-jackson/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/cjalenj"
+        },
+        {
+            "network" : "email",
+            "href": "chrisjalen59@gmail.com"
+        }
+    ]
+}

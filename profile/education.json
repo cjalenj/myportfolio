@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "Aug 2021 - May 2025",
+            "cardTitle": "Bachelor of Science in Computer Science",
+            "cardSubtitle":"Georgia Institute of Technology, College of Computing",
+            "cardDetailedText": ["Concentrations in Intelligence and People", "GPA - 3.70"]
+        },
+        {
+            "title": "Aug 2017 - May 2021",
+            "cardTitle": "Mansfield Legacy High School",
+            "cardSubtitle":"Mansfield, TX",
+            "cardDetailedText": ["Salutatorian", "GPA - 105.729"]
+        }
+    ]
+}
